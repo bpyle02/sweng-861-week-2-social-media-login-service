@@ -1,5 +1,7 @@
 # Social Media Login Service
 
+- GitHub Repo can be found here: [[http://localhost:5173](http://localhost:5173)]([http://localhost:5173](http://localhost:5173))
+
 # Authentication Flow Diagram
 
 ![diagram-export-1-26-2025-4_59_32-PM.png](diagram-export-1-26-2025-4_59_32-PM.png)
