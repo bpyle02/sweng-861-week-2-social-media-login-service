@@ -1,6 +1,6 @@
 # Social Media Login Service
 
-- GitHub Repo can be found here: [[http://localhost:5173](http://localhost:5173)]([http://localhost:5173](http://localhost:5173))
+- GitHub Repo can be found here: [https://github.com/bpyle02/sweng-861-week-2-social-media-login-service](https://github.com/bpyle02/sweng-861-week-2-social-media-login-service)
 
 # Authentication Flow Diagram
 
